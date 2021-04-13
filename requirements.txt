@@ -4,6 +4,7 @@ attrs==20.3.0
 backcall==0.2.0
 bleach==3.3.0
 cffi==1.14.5
+click==7.1.2
 cycler==0.10.0
 decorator==5.0.6
 defusedxml==0.7.1
@@ -15,6 +16,7 @@ ipython-genutils==0.2.0
 ipywidgets==7.6.3
 jedi==0.18.0
 Jinja2==2.11.3
+joblib==1.0.1
 jsonschema==3.2.0
 jupyter==1.0.0
 jupyter-client==6.1.12
@@ -36,9 +38,12 @@ packaging==20.9
 pandas==1.1.5
 pandocfilters==1.4.3
 parso==0.8.2
+patsy==0.5.1
+pep517==0.10.0
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==8.2.0
+pip-tools==6.0.1
 prometheus-client==0.10.0
 prompt-toolkit==3.0.18
 ptyprocess==0.7.0
@@ -51,10 +56,16 @@ pytz==2021.1
 pyzmq==22.0.3
 qtconsole==5.0.3
 QtPy==1.9.0
+scikit-learn==0.24.1
+scipy==1.5.4
 Send2Trash==1.5.0
 six==1.15.0
+statsmodels==0.10.2
+stldecompose==0.0.5
 terminado==0.9.4
 testpath==0.4.4
+threadpoolctl==2.1.0
+toml==0.10.2
 tornado==6.1
 traitlets==4.3.3
 typing-extensions==3.7.4.3
