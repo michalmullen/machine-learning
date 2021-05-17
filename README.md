@@ -15,5 +15,5 @@ In the notebook directory run:
 
     $ jupyter notebook
 
-After click the coffeeShopAD.ipynb file.
+After click the `coffeeShopAD.ipynb` file.
 
